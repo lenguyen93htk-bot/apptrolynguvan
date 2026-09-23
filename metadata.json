@@ -1,0 +1,6 @@
+{
+  "name": "Ngữ Văn THCS – Huỳnh Thúc Kháng",
+  "description": "Ứng dụng học tập Ngữ văn THCS trường THCS Huỳnh Thúc Kháng - Hệ sinh thái AI định hướng tư duy đọc, lập luận và viết văn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
